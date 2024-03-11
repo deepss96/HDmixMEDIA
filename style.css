@@ -1,4 +1,6 @@
+@import url('https://fonts.cdnfonts.com/css/spantaran');
 @font-face {
+    font-family: 'Spantaran', sans-serif;
     font-family:'Spantaran Regular';
     src:url(/Spantaran.ttf);
     font-style: normal;
@@ -7,6 +9,7 @@
     }
 
     * {
+        font-family: 'Spantaran', sans-serif;
         font-family:'Spantaran Regular';
         margin: 0;
         padding: 0;
