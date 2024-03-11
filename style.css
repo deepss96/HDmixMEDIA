@@ -1,7 +1,7 @@
 @font-face {
     font-family:'Spantaran Regular';
     src:url(/Spantaran.ttf);
-     font-style: normal;
+    font-style: normal;
     font-weight: normal;
     src: local('Spantaran Regular'), url('Spantaran.woff') format('woff');
     }
